@@ -91,7 +91,7 @@ class BurgerBuilder extends Component {
         );
       }
     }
-
+ 
     return (
       <Auxiliary>
         <Modal
